@@ -24,8 +24,6 @@ Feel free to reach out if you'd like to discuss a project or start a collaborati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jezzofficial&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jezzofficial&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jezzofficial&icon=2&color=12)](https://visitcount.itsvg.in)
