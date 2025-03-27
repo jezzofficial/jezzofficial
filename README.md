@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi! My name is Jezzi, and I'm 20 years old.<br>
+# 🤬 This is Me:
+_My name is Jezzi, and I'm 20 years old._
 
 <br>💻 I program in Python and C++. My main focus is on network applications, Telegram bots, and multithreading. 
 <br>Recently, I developed a console messenger system with encryption.<br>
